@@ -1,4 +1,5 @@
 NAME_ARCHIVE: archive.txt
 PROYECT_NAME: BAAMD_8D
+[------------SECCIÓN: INFO TRABAJADOR 1 --------------]
 NAME: Trabajador 1
 DESCRIPTION: Modificación de archive.txt por Trabajador 1
